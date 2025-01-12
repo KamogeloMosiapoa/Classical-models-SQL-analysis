@@ -1,4 +1,5 @@
 # Classical-models-SQL-analysis
+![classic model car banner without company wording](https://github.com/user-attachments/assets/41ec4575-6154-41f6-93f7-25cbd6b742ff)
 
 ## Project overview
 This project involves analyzing data to gain insights into sales performance, customer behavior, inventory patterns, and customer segmentation for Classic Models using SQL.It processes data from the Classic Models database to generate visualizations and reports that aid in decision-making. .The project explores the practical use of SQL and Excel to address business-related queries and reveal insights.
